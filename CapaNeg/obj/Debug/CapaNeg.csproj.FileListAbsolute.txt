@@ -1,0 +1,9 @@
+C:\Users\john\source\repos\ProductosyBodega\CapaNeg\bin\Debug\CapaNeg.dll
+C:\Users\john\source\repos\ProductosyBodega\CapaNeg\bin\Debug\CapaNeg.pdb
+C:\Users\john\source\repos\ProductosyBodega\CapaNeg\bin\Debug\CapaDato.dll
+C:\Users\john\source\repos\ProductosyBodega\CapaNeg\bin\Debug\CapaDato.pdb
+C:\Users\john\source\repos\ProductosyBodega\CapaNeg\obj\Debug\CapaNeg.csprojAssemblyReference.cache
+C:\Users\john\source\repos\ProductosyBodega\CapaNeg\obj\Debug\CapaNeg.csproj.CoreCompileInputs.cache
+C:\Users\john\source\repos\ProductosyBodega\CapaNeg\obj\Debug\CapaNeg.csproj.CopyComplete
+C:\Users\john\source\repos\ProductosyBodega\CapaNeg\obj\Debug\CapaNeg.dll
+C:\Users\john\source\repos\ProductosyBodega\CapaNeg\obj\Debug\CapaNeg.pdb
